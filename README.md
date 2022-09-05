@@ -11,14 +11,14 @@ Learning DSA from PepCoding.
       4. conditionals
       5. loops
       5. basic questions
-          * prime nos	✅
-          * prime factorization of a no	✅
+          * prime nos	            ✅
+          * prime factorization 	✅
           * count digits in no	✅
-          * fibonacci	✅
-          * reverse of no	✅
-          * inverse of no	✅
-          * rotate a no	✅
-          * gcd & lcm	✅
+          * fibonacci	            ✅
+          * reverse of no	      ✅
+          * inverse of no	      ✅
+          * rotate a no	            ✅
+          * gcd & lcm	            ✅
           * pythagoreas triplets	✅
           * benjamin bulbs puzzle	✅
-          * patterns printing
+          * patterns printing       ✅
