@@ -25,7 +25,7 @@ Learning DSA from PepCoding.
           * benjamin bulbs puzzle	✅
           * patterns printing       ✅
 
-## 1. FUNCTIONS
+## 2. FUNCTIONS
       1. no system	      ✅
       2. digits frequency ✅
       3. base conversion  ✅
