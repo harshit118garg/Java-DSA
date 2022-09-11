@@ -12,7 +12,7 @@ Learning DSA from PepCoding.
       3. varibales
       4. conditionals
       5. loops
-      5. basic questions
+      6. basic questions
           * prime nos	        ✅
           * prime factorization 	✅
           * count digits in         ✅
@@ -29,4 +29,16 @@ Learning DSA from PepCoding.
       1. no system	      ✅
       2. digits frequency ✅
       3. base conversion  ✅
+
+## 3. ARRAYS
+   * 1-D ARRAYS
+      1. find element					✅ 
+      2. add, subtract 2 arrays         ✅ 
+      3. array rotate					✅ 
+      4. array reverse					✅ 
+      5. array span					    ✅ 
+      6. subarrays & subsets of arrays	✅ 
+      7. find index (first & last)	    ✅ 
+      8. ceil & floor					✅ 
+            
       
