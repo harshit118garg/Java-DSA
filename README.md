@@ -39,6 +39,17 @@ Learning DSA from PepCoding.
       5. array span					    ✅ 
       6. subarrays & subsets of arrays	✅ 
       7. find index (first & last)	    ✅ 
-      8. ceil & floor					✅ 
+      8. ceil & floor					✅
+
+   * 2-D ARRAYS
+     1. matrix multiply  ✅
+     2. wave traversal   ✅
+     3. spiral traversal ✅
+     4. diagonal traversal ✅
+     5. rotate by 90 deg ✅
+     6. shell/ring rotate ✅
+     7. exit point ✅
+     8. saddle point ✅
+     9. search in sorted matrix ✅
             
       
